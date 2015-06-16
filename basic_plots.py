@@ -50,7 +50,7 @@ plt.show()
 plt.close()
 
 
-
+print 'blaa'
 
 # the histogram
 plt.hist(grades, bins=10)
